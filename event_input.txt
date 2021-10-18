@@ -1,0 +1,5 @@
+[
+ {"event":"Ip Address-72","properties":{"time": 1634145632,"distinct_id": "123", "other prop": "value","$browser": "Chrome","ip":"72.229.28.185"}},
+ {"event":"Rodrigo Event","properties":{"time": 1631552268,"distinct_id": "1234", "other prop": "value"}},
+ {"event":"Rodrigo Event","properties":{"time": 1631552268, "distinct_id": "1235", "other prop": "value"}}
+]
